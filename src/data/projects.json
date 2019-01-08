@@ -8,13 +8,13 @@
     {
         "id": 2,
         "name": "UI Design",
-        "image": "https://images.unsplash.com/photo-1522542550221-31fd19575a2d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80",
+        "image": "http://4.bp.blogspot.com/-1kOHevEcEks/UzVK-ILsOYI/AAAAAAAADgE/kiraujfjBAU/s1600/Programmer+Found+by+Pcbots.png",
         "description": "Designing user interfaces is fun. I want to learn more about that..."
     },
     {
         "id": 3,
         "name": "Mobile UX",
-        "image": "https://images.unsplash.com/photo-1534237886190-ced735ca4b73?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80",
+        "image": "https://images.unsplash.com/photo-1518118115078-c6adc68910bd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2550&q=80",
         "description": "I like to design for the mobile platform. The challenges to build UI's for smartphones is challenging but extremely rewarding."
     }
 ]
