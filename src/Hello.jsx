@@ -2,7 +2,7 @@ import React from "react"
 
 const Hello = () => {
     return (
-        <p className="content-text">Hello World</p>
+        <h1 className="content-text">DIE</h1>
     )
 }
 

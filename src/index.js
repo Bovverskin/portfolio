@@ -11,10 +11,10 @@ import './css/tailwind.css';
 
 const App = () => {
     return (
-        <div className="min-h-screen">
-            <div className="flex flex-col w-full fixed pin-l pin-y">
+        <div className="page-wrapper">
+            <div className="page-content">
                 <Header />
-                <div className="px-4 pt-4 flex-1 overflow-y-scrol">
+                <div className="content-wrapper">
                     <Switch>
                         <Route exact path='/' component={Hello}></Route>
                         <Route exact path='/about' component={About}></Route>
