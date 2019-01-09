@@ -4,8 +4,10 @@
   "private": true,
   "dependencies": {
     "axios": "^0.18.0",
+    "hide-scrollbar-react": "^1.1.5",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
+    "react-helmet": "^5.2.0",
     "react-image": "^1.5.1",
     "react-lazy-load": "^3.0.13",
     "react-router-dom": "^4.3.1",

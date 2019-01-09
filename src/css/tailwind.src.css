@@ -4,7 +4,7 @@
 @tailwind screens;
 
 .page-wrapper {
-    @apply min-h-screen;
+    @apply min-h-screen bg-red;
 }
 .page-content {
     @apply flex flex-col w-full fixed pin-l pin-y;
@@ -43,6 +43,23 @@
     @apply background-attachment scroll local;
 }
 
-.background-color {
-    @apply background-color #22292f;
+#bg {
+    @apply
+    width 200px;
+    height 200px;
+    display block;
+    position relative;
+}
+
+div::after {
+    @apply
+    content "yo";
+    background url(./src/images/programmerFound.png);
+    opacity 0.5;
+    top 0;
+    left 0;
+    bottom 0;
+    right 0;
+    position absolute;
+    z-index -1;   
 }

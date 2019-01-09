@@ -4,7 +4,7 @@ import { UndrawMayTheForce } from 'react-undraw-illustrations';
 const About = () => {
     return (
         
-            <div className="content-wrapper bg-black">
+            <div className="content-wrapper bg-blue-darkest">
                 <div className="flex flex-wrap mb-4">
                     <div className="w-full lg:w-1/4 md:w-1/2">
                         <UndrawMayTheForce primaryColor='#12283a' height='400px' />

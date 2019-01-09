@@ -16,5 +16,23 @@
         "name": "Mobile UX",
         "image": "https://images.unsplash.com/photo-1518118115078-c6adc68910bd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2550&q=80",
         "description": "I like to design for the mobile platform. The challenges to build UI's for smartphones is challenging but extremely rewarding."
+    },
+    {
+        "id": 4,
+        "name": "My First Website",
+        "image": "https://arkyon.in/wp-content/uploads/2018/07/68971260-programmer-wallpapers-1024x577.png",
+        "description": "This was my first project. Pretty simple stuff but I was proud"
+    },
+    {
+        "id": 5,
+        "name": "UI Design",
+        "image": "http://4.bp.blogspot.com/-1kOHevEcEks/UzVK-ILsOYI/AAAAAAAADgE/kiraujfjBAU/s1600/Programmer+Found+by+Pcbots.png",
+        "description": "Designing user interfaces is fun. I want to learn more about that..."
+    },
+    {
+        "id": 6,
+        "name": "Mobile UX",
+        "image": "https://images.unsplash.com/photo-1518118115078-c6adc68910bd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2550&q=80",
+        "description": "I like to design for the mobile platform. The challenges to build UI's for smartphones is challenging but extremely rewarding."
     }
 ]
