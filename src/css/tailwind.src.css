@@ -38,3 +38,11 @@
 .content-text {
     @apply text-grey-dark;
 }
+
+.background-attachment {
+    @apply background-attachment scroll local;
+}
+
+.background-color {
+    @apply background-color #22292f;
+}
