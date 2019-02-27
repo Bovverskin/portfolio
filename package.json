@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "axios": "^0.18.0",
+    "gatsby-plugin-react-helmet": "^3.0.7",
     "hide-scrollbar-react": "^1.1.5",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
