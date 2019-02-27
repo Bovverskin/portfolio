@@ -2,9 +2,9 @@ import React from "react"
 
 const Footer = () => {
     return (
-        <div class="border-t border-smoke px-8 py-4">
-                <div class="flex justify-center text-grey">
-                        Made with React
+        <div class="flex items-center justify-between flex-wrap bg-blue-darkest p-6">
+                <div class="text-white text-xs ml-auto">
+                        Site made with a lot of coffee and sleepless nights
                 </div>
         </div>
     )

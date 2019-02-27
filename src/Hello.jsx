@@ -1,9 +1,13 @@
-import React from "react"
+import React from 'react';
+import LazyLoad from 'react-lazy-load';
 
-const Hello = () => {
-    return (
-        <p className="content-text">Hello World</p>
-    )
-}
+const Hello = () => (
+  <div class="page-wrapper">
+
+    <div className="filler" />
+    
+   
+  </div>
+);
 
 export default Hello

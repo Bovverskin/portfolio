@@ -6,16 +6,24 @@ import Header from "./Header"
 import Footer from "./Footer"
 import Projects from "./Projects"
 import About from "./About"
+import {Helmet} from 'react-helmet';
 import './css/tailwind.css';
 
 
 const App = () => {
     return (
-        <div className="min-h-screen">
-            <div className="flex flex-col w-full fixed pin-l pin-y">
+        <div className="page-wrapper">
+        <img src="./src/images/programmerFound.png" id="bg" alt=""></img>
+            <div className="page-content">
                 <Header />
-                <div className="px-4 pt-4 flex-1 overflow-y-scrol">
+                <div className="content-wrapper">
+                <Helmet>
+                    <style>{'body { background-color: #20504f; }'}</style>
+                </Helmet>
                     <Switch>
+                        <Route exact path='/' component={Hello}></Route>
+                        <Route exact path='/about' component={About}></Route>
+                        <Route exact path='/projects' component={Projects}></Route>
                         <Route exact path='/' component={Hello}></Route>
                         <Route exact path='/about' component={About}></Route>
                         <Route exact path='/projects' component={Projects}></Route>
