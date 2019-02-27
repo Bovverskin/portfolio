@@ -21,7 +21,8 @@
     "watch:css": "postcss src/css/tailwind.src.css -o src/css/tailwind.css -w",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "build": "npm run build:css && webpack --mode production"
+    "build": "npm run build:css && webpack --mode production",
+    "heroku-postbuild": "echo Skip build on Heroku"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -50,5 +51,6 @@
     "webpack-dev-server": "^3.1.14"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "heroku-run-build-script": true
 }
