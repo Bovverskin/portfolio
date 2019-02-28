@@ -9,7 +9,7 @@ const ProjectCard = (props) => {
 
 
             <div className="px-6 py-4" style={{ minHeight: '150px' }} >
-                <div className="font-bold text-xl mb-2">{project.name}
+                <div className="text-white font-bold text-xl mb-2">{project.name}
                     <a href={project.github} target='_blank'>
                         <img className='pr-4' style={{ height: '30px' }} src="https://image.flaticon.com/icons/png/512/37/37318.png" alt="" />
                     </a>
@@ -22,7 +22,7 @@ const ProjectCard = (props) => {
                 </p>
             </div>
             <h5>Techonologies used:</h5>
-                <div className='d-flex'>
+                <div className='d-flex white'>
                     <img className='pr-4' style={{ height: '30px' }} src={project.technology1} alt="" />
                     <img className='pr-4' style={{ height: '30px' }} src={project.technology2} alt="" />
                     <img className='pr-4' style={{ height: '30px' }} src={project.technology3} alt="" />
