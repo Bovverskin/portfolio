@@ -12,20 +12,20 @@
     {
         "id": 2,
         "name": "The Sunrise Press",
-        "image": "http://4.bp.blogspot.com/-1kOHevEcEks/UzVK-ILsOYI/AAAAAAAADgE/kiraujfjBAU/s1600/Programmer+Found+by+Pcbots.png",
+        "image": "https://the-sunrise-press.herokuapp.com/assets/logo-be95da4333920f84e018d3a69d3d1a601d7e542ec1e138f3fe91bd7d2e685736.png",
         "description": "This is a news website built on the Ruby on Rails framework. It allows visitors to view both inhouse and sourced news articles. ",
-        "github": "https://github.com/Jon1969Edwards/Jon1969edwards.github.io",
-        "website": "https://jon1969edwards.github.io/",
+        "github": "https://github.com/CraftAcademy/the_sunrise_press",
+        "website": "https://the-sunrise-press.herokuapp.com//",
         "technology1": "https://www.niou.net/img/parallax-slider/html5.png",
         "technology2": "https://banner2.kisspng.com/20180402/csq/kisspng-css3-cascading-style-sheets-computer-icons-html-emblem-5ac245f0d27847.8044648115226813288621.jpg"
     },
     {
         "id": 3,
-        "name": "Mobile UX",
-        "image": "https://images.unsplash.com/photo-1518118115078-c6adc68910bd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2550&q=80",
-        "description": "I like to design for the mobile platform. The challenges to build UI's for smartphones is challenging but extremely rewarding.",
-        "github": "https://github.com/Jon1969Edwards/Jon1969edwards.github.io",
-        "website": "https://jon1969edwards.github.io/",
+        "name": "Slowfood Project",
+        "image": "https://moestavern.herokuapp.com/assets/customers-8d1643fdb914aad5fb71d82b7bdd35172bc7732753cf09c911c601028962eee3.jpg",
+        "description": "A food ordering application written in Ruby on Rails",
+        "github": "https://github.com/CraftAcademy/slowfood-oct18-team1",
+        "website": "https://moestavern.herokuapp.com/",
         "technology1": "https://www.niou.net/img/parallax-slider/html5.png",
         "technology2": "https://banner2.kisspng.com/20180402/csq/kisspng-css3-cascading-style-sheets-computer-icons-html-emblem-5ac245f0d27847.8044648115226813288621.jpg"
     }
