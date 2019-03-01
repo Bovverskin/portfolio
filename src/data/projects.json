@@ -11,32 +11,58 @@
     },
     {
         "id": 2,
-        "name": "The Sunrise Press",
-        "image": "https://the-sunrise-press.herokuapp.com/assets/logo-be95da4333920f84e018d3a69d3d1a601d7e542ec1e138f3fe91bd7d2e685736.png",
-        "description": "This is a news website built on the Ruby on Rails framework. It allows visitors to view both inhouse and sourced news articles. ",
-        "github": "https://github.com/CraftAcademy/the_sunrise_press",
-        "website": "https://the-sunrise-press.herokuapp.com//",
-        "technology1": "https://www.niou.net/img/parallax-slider/html5.png",
-        "technology2": "https://banner2.kisspng.com/20180402/csq/kisspng-css3-cascading-style-sheets-computer-icons-html-emblem-5ac245f0d27847.8044648115226813288621.jpg"
+        "name": "BMI Calcultator",
+        "image": "https://bicepsexercise.in/wp-content/uploads/2018/06/BMI.jpg",
+        "description": "A simple BMI calculator written in JavaScript tested with cucumber: ",
+        "github": "https://github.com/Jon1969Edwards/BMI_Challenge",
+        "website": "https://jon1969edwards.github.io/BMI_Challenge/",
+        "technology1": "https://cdn.freebiesupply.com/logos/large/2x/javascript-logo-png-transparent.png",
+        "technology2": "https://cdn.freebiesupply.com/logos/large/2x/cucumber-logo-png-transparent.png"
     },
     {
         "id": 3,
-        "name": "Slowfood Project",
+        "name": "The Sunrise Press",
+        "image": "https://i2.wp.com/africarm.org/site/wp-content/uploads/2014/08/Breaking_News11.jpg?zoom=2&fit=1920%2C1080",
+        "description": "This is a news website built on the Ruby on Rails framework. It allows visitors to view both inhouse and sourced news articles. ",
+        "github": "https://github.com/CraftAcademy/the_sunrise_press",
+        "website": "https://the-sunrise-press.herokuapp.com//",
+        "technology1": "http://gloify.com/wp-content/uploads/2018/02/rails.png",
+        "technology2": "https://cdn-images-1.medium.com/max/1600/1*wpwQI9X7wWUAeLO4b5537w.png",
+        "technology3": "https://cdn.freebiesupply.com/logos/large/2x/cucumber-logo-png-transparent.png",
+        "technology4": "https://futuremarketing.co/wp-content/uploads/2018/03/Tailwind.png"
+    },
+    {
+        "id": 4,
+        "name": "Moe's Tavern",
         "image": "https://moestavern.herokuapp.com/assets/customers-8d1643fdb914aad5fb71d82b7bdd35172bc7732753cf09c911c601028962eee3.jpg",
         "description": "A food ordering application written in Ruby on Rails",
         "github": "https://github.com/CraftAcademy/slowfood-oct18-team1",
         "website": "https://moestavern.herokuapp.com/",
-        "technology1": "https://www.niou.net/img/parallax-slider/html5.png",
-        "technology2": "https://banner2.kisspng.com/20180402/csq/kisspng-css3-cascading-style-sheets-computer-icons-html-emblem-5ac245f0d27847.8044648115226813288621.jpg"
+        "technology1": "http://gloify.com/wp-content/uploads/2018/02/rails.png",
+        "technology2": "https://cdn-images-1.medium.com/max/1600/1*wpwQI9X7wWUAeLO4b5537w.png",
+        "technology3": "https://cdn.freebiesupply.com/logos/large/2x/cucumber-logo-png-transparent.png",
+        "technology4": "https://futuremarketing.co/wp-content/uploads/2018/03/Tailwind.png"
     },
     {
-        "id": 4,
+        "id": 5,
         "name": "CARdnd",
         "image": "https://cardreamndrive.herokuapp.com/assets/background_yellow_logo-1a51d88f99094465aaa15cfdfef703152d04e53a2f883cf4d26cd0f56676e779.png",
         "description": "A car sharing service prototype created using Ruby on Rails as full stack framework, cucumber/rspec for testing and tailwind for styling:",
         "github": "https://github.com/CraftAcademy/CARdnd",
         "website": "https://cardreamndrive.herokuapp.com/",
-        "technology1": "https://www.niou.net/img/parallax-slider/html5.png",
-        "technology2": "https://banner2.kisspng.com/20180402/csq/kisspng-css3-cascading-style-sheets-computer-icons-html-emblem-5ac245f0d27847.8044648115226813288621.jpg"
+        "technology1": "http://gloify.com/wp-content/uploads/2018/02/rails.png",
+        "technology2": "https://cdn-images-1.medium.com/max/1600/1*wpwQI9X7wWUAeLO4b5537w.png",
+        "technology3": "https://cdn.freebiesupply.com/logos/large/2x/cucumber-logo-png-transparent.png",
+        "technology4": "https://futuremarketing.co/wp-content/uploads/2018/03/Tailwind.png"
+    },
+    {
+        "id": 6,
+        "name": "Address Book",
+        "image": "https://www.lifewire.com/thmb/rd2GgxAVWJLUN59vD2aD2pZKNXU=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/address-book-entry-contact-information-172182709-57b885c95f9b58cdfdafc9f1.jpg",
+        "description": "An address book written in JavaScript using browser local storage for storing contacts and cucumber for testing:",
+        "github": "https://github.com/Jon1969Edwards/Adress_book",
+        "website": "https://gergkllai1.github.io/Adress_book/",
+        "technology1": "https://cdn.freebiesupply.com/logos/large/2x/javascript-logo-png-transparent.png",
+        "technology2": "https://cdn.freebiesupply.com/logos/large/2x/cucumber-logo-png-transparent.png"
     }
 ]
